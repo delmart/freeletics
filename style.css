@@ -1,0 +1,138 @@
+body{
+	background-color: #F3F3F3;
+	font-family: 'Dosis', sans-serif;
+	font-size: 18px;
+
+}
+
+#banniere{
+	background-image: url(images/banniere.jpg);
+	height: 500px;
+	background-size: cover;
+	padding-top: 100px;
+	color: white;
+	text-align: right;
+
+}
+
+#position-right{
+	position: relative;
+	right: 30px;
+	top: 250px;
+
+}
+
+.spacer{
+	height: 3em;
+}
+
+.textcenter{
+	text-align: center;
+}
+
+.background-block{
+	background-color: #F0F0F0;
+	width: 100%;
+	padding: 30px;
+	border-radius: 15px;
+	
+}
+
+.table-contend{
+	background-color:#F0F0F0;
+}
+
+li{
+	list-style-type: none;
+}
+
+ul{
+	padding: 0;
+}
+
+h2{
+	padding-bottom: 1em;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+h1{
+	font-family: 'Dosis', sans-serif;
+}
+
+h4{
+	padding-bottom: 1em;
+	text-decoration: underline;
+}
+
+.btn{
+	background-color: #0091FF;
+}
+
+a{
+	color: #0091FF;
+}
+
+.icon-radius{
+	border:2px solid black;
+	border-radius: 50%;
+	margin-bottom: 20px;
+
+}
+
+#footer{
+	background-color: black;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	color:#F0F0F0;
+}
+
+.list-inline a{
+	font-size: 30px;
+	color: #0091FF;
+	padding-right: 30px;
+}
+
+
+
+.navbar-transparent, .navbar, .container-fluid, .dropdown-menu, .dropdown-toggle
+{
+	background-color: rgba(0,0,0,0.60);
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: white;
+  line-height: 20px;
+}
+
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgba(0,0,0,0.80);
+ 
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: white;
+}
+
+
+.dropdown-menu
+{
+	background-color: rgba(0,0,0,0.80);
+	
+}
+
+.dropdown-menu li>a{
+	color: white;
+}
+
+
+
